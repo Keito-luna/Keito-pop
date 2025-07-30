@@ -78,13 +78,14 @@ a:hover {
   background-color:#ADD8E6;
 }
 .flex-container {
+	 flex-wrap: wrap;
   display: flex;
   justify-content: center;
 }
 
 .flex-container > div.text {
   background-color:#ccccff ;
-  width: 500px;
+  width: 800px;
   margin: 20px;
   line-height: 30px;
   font-size: 20px;
