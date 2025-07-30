@@ -35,6 +35,11 @@ h2.operation{
 	font-family:monospace;
 	text-align:center;
 }
+h2.peace{
+	color:    #9999ff ;
+	font-family:monospace;
+	text-align:center;
+}
 h2.blue{
 	text-decoration: underline;
 	color:    #D7E9F7;
@@ -75,7 +80,20 @@ a {
 }
 a:hover {
   color:#ffff ;
-  background-color:#ADD8E6;
+  background-color:#DABFA8;
+}
+a.accueil{
+	 font-family:monospace;
+  color: white;             
+  text-decoration: underline;
+  border: 1px;  
+  border-radius: 1px;     
+  padding: 1px; 
+}
+a.accueil:hover{
+	color:#ffff ;
+	background-color: none;
+
 }
 .flex-container {
 	 flex-wrap: wrap;
@@ -86,6 +104,14 @@ a:hover {
 .flex-container > div.text {
   background-color:#ccccff ;
   width: 530px;
+  margin: 20px;
+  line-height: 30px;
+  font-size: 17px;
+}
+
+.flex-container > div.accueil {
+  background-color:#ccccff ;
+  width: 1000px;
   margin: 20px;
   line-height: 30px;
   font-size: 17px;
