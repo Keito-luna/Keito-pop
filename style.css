@@ -1,0 +1,99 @@
+body{
+	background-color:#e6ccff
+}
+h1{
+	color:	#ffffff;
+	font-family:monospace;
+	font-size: 35px;
+	margin-left: 30px;
+}
+ul{
+	color:	#ffffff;
+	font-family:monospace;
+	font-size: 25px;
+	margin-left: 30px;
+}
+p{
+	color:	#ffffff;
+	font-family:monospace;
+ font-size: 25px;
+ margin-left: 30px;
+}
+	
+h2.monantifan{
+	color:	 #ffff99;
+	font-family:monospace;
+	text-align:center;
+}
+h2.jaieleveunebete{
+	color:	   #ccffe6;
+	font-family:monospace;
+	text-align:center;
+}
+h2.operation{	 
+	color:#ffe6f9 ;
+	font-family:monospace;
+	text-align:center;
+}
+h2.blue{
+	text-decoration: underline;
+	color:    #D7E9F7;
+	font-family:monospace;
+	margin-left: 15px;
+}
+h2.etoile{
+  color: #E1F2FB;
+	font-family:monospace;
+	margin-left: 15px;
+	text-decoration: none;
+}
+h2{
+	text-decoration: underline;
+	color: #E1F2FB;
+	font-family:monospace;
+	margin-left: 15px;
+}
+
+h3{
+	color:	#ffffff;
+	font-family:monospace;
+	margin-left: 15px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  font-family:monospace;
+  color: white;             
+  text-decoration: none;    
+  border: 1px solid white;  
+  border-radius: 10px;     
+  padding: 10px; 
+  margin-left: 15px;
+}
+a:hover {
+  color:#ffff ;
+  background-color:#ADD8E6;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div.text {
+  background-color:#ccccff ;
+  width: 500px;
+  margin: 20px;
+  line-height: 30px;
+  font-size: 20px;
+}
+body {  
+  height: 110vh;
+     cursor: none;
+}
+#blocSuiveur {
+	position: absolute;
+}
+    
