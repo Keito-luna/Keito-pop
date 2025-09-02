@@ -40,6 +40,11 @@ h2.peace{
 	font-family:monospace;
 	text-align:center;
 }
+h2.tyrant{
+	color:grey;
+	font-family:monospace;
+	text-align:center;
+}
 h2.blue{
 	text-decoration: underline;
 	color:    #D7E9F7;
